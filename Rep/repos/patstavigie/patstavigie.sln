@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "patstavigie", "patstavigie\patstavigie.pyproj", "{85E538E4-38A3-4C12-8F0C-F4B81642931A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E538E4-38A3-4C12-8F0C-F4B81642931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E538E4-38A3-4C12-8F0C-F4B81642931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74EAE470-5EB9-4DA8-B056-0A764F3413BE}
+	EndGlobalSection
+EndGlobal

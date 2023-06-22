@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (7 string un random numuri.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\ufo84\source\repos\7 string un random numuri\7 string un random numuri\Source.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ufo84\source\repos\7 string un random numuri\7 string un random numuri\Source.cpp(82,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ufo84\source\repos\7 string un random numuri\7 string un random numuri\Source.cpp(94,9): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ufo84\source\repos\7 string un random numuri\7 string un random numuri\Source.cpp(37,9): warning C4102: 'begging': unreferenced label
+  7 string un random numuri.vcxproj -> C:\Users\ufo84\source\repos\7 string un random numuri\x64\Debug\ciparu minesana.exe

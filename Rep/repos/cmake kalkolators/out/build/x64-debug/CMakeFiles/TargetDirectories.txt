@@ -1,0 +1,5 @@
+C:/Users/ufo84/source/repos/cmake kalkolators/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/ufo84/source/repos/cmake kalkolators/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ufo84/source/repos/cmake kalkolators/out/build/x64-debug/cmake kalkolators/CMakeFiles/CMakeTarget.dir
+C:/Users/ufo84/source/repos/cmake kalkolators/out/build/x64-debug/cmake kalkolators/CMakeFiles/edit_cache.dir
+C:/Users/ufo84/source/repos/cmake kalkolators/out/build/x64-debug/cmake kalkolators/CMakeFiles/rebuild_cache.dir

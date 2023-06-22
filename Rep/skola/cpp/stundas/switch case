@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int day;
+    cout << "ievadi dienas numuru = ";
+    cin >> day >> endl
+}

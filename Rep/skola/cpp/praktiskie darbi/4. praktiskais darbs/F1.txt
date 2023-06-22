@@ -1,0 +1,19 @@
+Istabu skaits: 123
+Stavs: 2
+Laukums: 1234
+Adrese:  mart
+
+Istabu skaits: 32
+Stavs: 2
+Laukums: 32
+Adrese:  asdas
+
+Istabu skaits: 32
+Stavs: 2
+Laukums: 12
+Adrese:  mar
+
+Istabu skaits: 3
+Stavs: 2
+Laukums: 32
+Adrese:  masr
