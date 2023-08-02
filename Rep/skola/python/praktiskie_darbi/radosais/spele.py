@@ -124,7 +124,6 @@ def lidmasinas_lokacija():
             lidmasina.y=-1
         
 meteori_kreisa = [] #meteori no kreisas
-
 for i in range(5):
     meteorix=random.randrange(-20, 0)
     metoriy = random.randrange(-50, 300)
