@@ -3,7 +3,7 @@ from os import path
 from pygame.locals import *
 pygame.init()
 
-# Colours
+# Colors
 fons = (16, 0, 22) 
 gaissfons=(26, 0, 37)
 white = (255, 255, 255)
